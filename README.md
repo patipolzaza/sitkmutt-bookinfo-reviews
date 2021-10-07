@@ -1,6 +1,7 @@
 # Reviews service
 
-
+* gradle ver : latest
+* websphere-liberty ver : latest
 
 ## How to run docker.
 ```bash
